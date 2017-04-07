@@ -1,0 +1,9 @@
+Please find below sample development task detail.
+
+1. Read text file(A,B,C columns) and perform sum, avg, max, min using A,B,C column values and generate XLS report.
+
+2. Read Excel file(A,B,C columns) and perform sum, avg, max, min using A,B,C column values and generate XML report.
+
+3. Read XML file(A,B,C columns) and perform sum, avg, max, min using A,B,C column values and Insert DB.
+
+4. Read DB (A,B,C columns) and perform sum, avg, max, min using A,B,C column values and generate Text report.
