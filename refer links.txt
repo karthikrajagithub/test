@@ -1,0 +1,53 @@
+Karthikraja
+
+PFB the links to refer
+
+
+Jquery Events
+
+https://www.w3schools.com/jquery/jquery_ref_events.asp
+
+Jquery Selectors
+
+https://www.w3schools.com/jquery/jquery_ref_selectors.asp
+
+
+Difference between val and text
+
+http://stackoverflow.com/questions/807867/difference-between-val-and-text
+
+
+JPA Annotations
+
+http://www.techferry.com/articles/hibernate-jpa-annotations.html
+
+http://developer.ucsd.edu/develop/data-layer/jpa/entity.html
+
+
+Spring MVC
+
+http://sahits.ch/blog/blog/2010/12/02/spring-mvc-3-0-controller/
+
+http://stackoverflow.com/questions/37315329/difference-between-pathvariable-and-modelattribute
+
+http://www.concretepage.com/spring/spring-mvc/spring-mvc-modelattribute-annotation-example
+
+https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm
+
+http://www.javatpoint.com/spring-3-mvc-tutorial
+
+Apache Tiles
+
+http://www.javatpoint.com/spring-mvc-tiles-example
+
+JSON
+
+https://www.w3schools.com/js/js_json_intro.asp
+
+i18n
+
+http://www.javablog.fr/spring-internationalization-with-message-source.html
+
+JPA Criteria API
+
+http://www.objectdb.com/java/jpa/query/criteria#Parameters_in_Criteria_Queries_
